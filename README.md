@@ -10,13 +10,13 @@ PURPLE , a smart voice assistant to rescue the needs of current day students. Th
 Purple stands out from other assistants like alexa and siri which are not specific to students. 
 
 # Features
-1.Task manager
-2.Assignment deadlines manager(Notifying upcoming deadlines)
-3.Relaxation functions like playing music, narating jokes.
-4.Taking  screenshot
-5.Google and wikipedia searches
-6.Remembering things said by user
-7.Welcoming and closing messages
+1.Task manager.<br />
+2.Assignment deadlines manager(Notifying upcoming deadlines).<br />
+3.Relaxation functions like playing music, narating jokes.<br />
+4.Taking  screenshot.<br />
+5.Google and wikipedia searches.<br />
+6.Remembering things said by user.<br />
+7.Welcoming and closing messages.<br />
 And many more
 
 # Future Enhancements
