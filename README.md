@@ -1,5 +1,5 @@
 # Hack_the_Mountains
-PURPLE- The Student Companion
+<h2 align="center">PURPLE- The Student Companion</h2>
  
 PURPLE , a smart voice assistant to rescue the needs of current day students. This project acts as a friend and assistant to students. It also helps the students in avoiding the major personal issue of procrastination.This projects main functions: 
 -> Time Management Skills
